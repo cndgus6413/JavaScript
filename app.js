@@ -170,5 +170,4 @@ let j = 0;
 while (j < 10) {
     console.log(j);
     j += 1
->>>>>>> 76c41dd84e3cc14c5b9d16c3d9a30f152cafcaac
 }
